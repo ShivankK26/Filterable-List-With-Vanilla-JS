@@ -48,4 +48,4 @@ After pasting the CDN Links, we will use various features in Bootstrap such as B
 
 Name: Shivank Kapur - shivankkapur2004@gmail.com
 
-Project Link: https://shivankk26.github.io/BMI-Calculator-App/
+Project Link: https://shivankk26.github.io/Filterable-List-With-Vanilla-JS/
