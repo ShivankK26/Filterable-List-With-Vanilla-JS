@@ -28,7 +28,7 @@ The Tech Stacks used are:
 To get started, first of all go to the official site of Bootstrap and copy the CDN Links then proceed by pasting them in your html file. 
 
 ## Installation
-After pasting the CDN Links, we will use various features in Bootstrap such as Buttons, Cards, Gutters, and much more.
+
 
 * CDN Links
 
